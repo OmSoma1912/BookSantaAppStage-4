@@ -27,7 +27,7 @@ export default class CustomSidebarMenu extends Component{
   }
 }
 
-const styles = StylesSheet.create({
+const styles = StyleSheet.create({
   drawerItemsContainer : {
     flex : 0.8
   },
